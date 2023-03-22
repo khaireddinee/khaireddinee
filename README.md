@@ -3,7 +3,7 @@
 ### Hi there 👋, I am Khaireddine Rebei
 #### I'm a Software Engineering Student
 
-https://github.com/khaireddinee/khaireddinee/blob/main/Banner.png
+(https://github.com/khaireddinee/khaireddinee/blob/main/Banner.png)
 
 Skills: REACT / JS / HTML / CSS / NODE / MONGODB / EXPRESS / JAVA / ASP .NET / PYTHON
 
