@@ -1,4 +1,3 @@
-### Hi there 👋
 
 ### Hi there 👋, I am Khaireddine Rebei
 #### I'm a Software Engineering Student
