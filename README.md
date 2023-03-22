@@ -13,7 +13,8 @@
 <a href="https://linkedin.com/in/khaireddine-rebei-063392237" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khaireddine-rebei-063392237" height="30" width="40" /></a>
 <a href="https://fb.com/khaireddine.rebei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="khaireddine.rebei" height="30" width="40" /></a>
 <a href="https://instagram.com/khaireddine_rebei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="khaireddine_rebei" height="30" width="40" /></a>
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=khaireddinee&label=Profile%20views&color=0e75b6&style=flat" alt="khaireddinee" /> </p>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khaireddinee&label=Profile%20views&color=0e75b6&style=flat" alt="khaireddinee" /> </p>
+
 
