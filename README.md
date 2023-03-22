@@ -15,4 +15,5 @@
 <a href="https://instagram.com/khaireddine_rebei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="khaireddine_rebei" height="30" width="40" /></a>
 </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=khaireddinee&label=Profile%20views&color=0e75b6&style=flat" alt="khaireddinee" /> </p>
 
